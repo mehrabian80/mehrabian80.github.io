@@ -16,7 +16,7 @@ profile:
 
 news: false # اگر فعلا خبری ندارید false کنید تا بخش پایین حذف شود
 selected_papers: false # اگر مقالات منتخب دارید true بماند
-social: true
+social: false
 ---
 
 I am a Master's student at the University of Tehran, conducting research on **Vision-Language Models (VLM)** and **Large Language Models (LLM)**. My primary focus is on multimodal learning and natural language processing.

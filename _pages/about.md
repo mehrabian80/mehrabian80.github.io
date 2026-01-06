@@ -14,8 +14,8 @@ profile:
     <p>University of Tehran</p>
     <p>Tehran, Iran</p>
 
-news: true # اگر فعلا خبری ندارید false کنید تا بخش پایین حذف شود
-selected_papers: true # اگر مقالات منتخب دارید true بماند
+news: false # اگر فعلا خبری ندارید false کنید تا بخش پایین حذف شود
+selected_papers: false # اگر مقالات منتخب دارید true بماند
 social: true
 ---
 
